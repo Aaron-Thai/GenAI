@@ -1,4 +1,4 @@
-## Round 1: Copy AI
+# Round 1: Copy AI
 [Copy AI](https://www.copy.ai/) is an online AI tool that mainly **generates text** in response to user prompts. As the name suggests, it is more directed towards **copywriting**, which may have a more **professional tone**. As of now, the tool does not generate images or videos.
 
 | Media       | Text       | Image | Video |
@@ -7,14 +7,14 @@
 | Rating      | 5          | 0     | 0     |
 | Time needed | 10 minutes | N/A   | N/A   |
 
-### Getting Started
+## Getting Started
 To start using the tool:
 1. Go to https://www.copy.ai/
 2. Click 'Login' and made a new account
 3. Fill out their survey
 4. Click 'New Project' in the top right-hand corner
 
-### Prompts
+## Prompts
 
 For the first prompt I started with an example similar to what we used in the playbook.
 
@@ -40,5 +40,5 @@ The tool recognized my intent and generated a new paragraph. However, the tone o
 
 This prompt seems satisfactory in promoting fitness trackers as a service innovation. It successfully describes benefits, challenges, and ends on a positive note.
 
-### Overall Rating: 3/5
+## Overall Rating: 3/5
 There was a slight lag on this last prompt, but overall the Copy AI text generation tool performed quickly and efficently. The process from visiting the site and creating a satisfactory prompt took less than 10 minutes.
