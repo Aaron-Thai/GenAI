@@ -20,7 +20,7 @@ Our chosen service innovation was Fitness Trackers (fitbits and smartwatches).
 The testing phase was split into three rounds. Click the links below to view detailed documentation on the AI tools. 
 
 
-* Round 1: Copy AI (overall rating: 3/5)
+* Round 1: [Copy AI (overall rating: 3/5)](https://github.com/Aaron-Thai/GenAI/blob/main/CopyAI.md)
 * Round 2: Playground AI (overall rating: 1/5)
 * Round 3: InVideo AI (overall rating: tbd)
 
