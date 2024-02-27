@@ -85,8 +85,8 @@ Let’s go back to simply “happy athlete.”
 *Image Prompt #4*:
 * "Happy athlete"
 * Image size: Wide (16:9)
->![happy athlete](./images/decohereAI/happyathlete.jpeg)
-![happy athlete, two](./images/decohereAI/happyathlete2.jpeg)
+>![happy athlete](./images/decohereAI/Happyathlete.jpeg)
+![happy athlete, two](./images/decohereAI/Happyathlete2.jpeg)
 
 We get roughly the same images of track runners across all frame sizes.
 
@@ -107,6 +107,8 @@ Upon refreshing the page, I see the generated output under the all tab.
 *Video Prompt #1*:
 * (Used a picture from Image Prompt #2) 
 > <video src="./images/decohereAI/video.mp4" width="320" height="240" controls></video>
+
+
 
 
 
