@@ -106,7 +106,11 @@ Upon refreshing the page, I see the generated output under the all tab.
 
 *Video Prompt #1*:
 * (Used a picture from Image Prompt #2) 
-> <video src="./images/decohereAI/video.mp4" width="320" height="240" controls></video>
+
+https://github.com/Aaron-Thai/GenAI/assets/91993827/2424135c-8d5f-4aa6-887f-2af161ff02cb
+
+
+
 
 
 
