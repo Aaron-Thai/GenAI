@@ -117,7 +117,7 @@ I will try more video generations, gradually speeding up the Camera Motion from 
 * (Used a picture from Image Prompt #2)
 * Camera Motion: 0.0
 
-
+https://github.com/Aaron-Thai/GenAI/assets/91993827/455cd3c3-aabc-432f-bc08-b2455e2dbfca
 
 The video doesn’t contain much movement. Results are as expected.
 
@@ -125,7 +125,7 @@ The video doesn’t contain much movement. Results are as expected.
 * (Used a picture from Image Prompt #2)
 * Camera Motion: 1.0
 
-
+https://github.com/Aaron-Thai/GenAI/assets/91993827/d05eff26-4f8b-45e1-b280-3f4adc10c1db
 
 There is some slow panning in the video, which is nice.
 
@@ -133,7 +133,7 @@ There is some slow panning in the video, which is nice.
 * (Used a picture from Image Prompt #3)
 * Camera Motion: 3.0
 
-
+https://github.com/Aaron-Thai/GenAI/assets/91993827/fcbcbddd-2d46-4b26-9118-4d42b38f2b84
 
 There is some body movement but no mouth movement.
 
@@ -141,7 +141,7 @@ There is some body movement but no mouth movement.
 * (Used a picture from Image Prompt #3)
 * Camera Motion: 10.0
 
-
+https://github.com/Aaron-Thai/GenAI/assets/91993827/73ac98b9-e7ef-43ae-97a2-71e2ebcace4d
 
 The static pose has been animated into a running motion, but the face shape morphs and changes halfway through the video, which is a little scary.
 
@@ -165,9 +165,9 @@ Now let's turn the last image into a video.
 * (Used a picture from Image Prompt #5)
 * Camera Motion: 5.0
 
+https://github.com/Aaron-Thai/GenAI/assets/91993827/282988b3-99a6-4e7d-bcd2-ef520c233593
 
-
-The output turned out okay. The video appears to be in slow motion, but the model seemes to be tuned for the default value of 5.0
+The output turned out okay. The video appears to be in slow motion, but the model seems to be tuned for the default value of 5.0
 
 ## Overall Rating: 3/5
 *Decohere* is a generative AI currently marketed towards animated video content, but the free trial restricts access to the most in-depth video tools. Thus, the main strength of this tool at a free tier is the straightforward image generation functionality.
