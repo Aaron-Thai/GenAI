@@ -84,7 +84,7 @@ Let’s go back to simply “happy athlete.”
 
 *Image Prompt #4*:
 * "Happy athlete"
-* Image size: Wide (16:9)
+* Image size: Wide (16:9, Youtube, etc.)
 >![happy athlete](./images/decohereAI/Happyathlete.jpeg)
 ![happy athlete, two](./images/decohereAI/Happyathlete2.jpeg)
 
@@ -108,6 +108,89 @@ Upon refreshing the page, I see the generated output under the all tab.
 * (Used a picture from Image Prompt #2)
   
 https://github.com/Aaron-Thai/GenAI/assets/91993827/2424135c-8d5f-4aa6-887f-2af161ff02cb
+
+The video is surreal as the hand moves and fades out of existence. The static pose has been animated to become laughter, which is novel. Under the free plan the videos are 4 seconds. 
+
+I will try more video generations, gradually speeding up the Camera Motion from 0 to 10. Also, I will also try different pictures.
+
+*Video Prompt #2*:
+* (Used a picture from Image Prompt #2)
+* Camera Motion: 0.0
+
+
+
+The video doesn’t contain much movement. Results are as expected.
+
+*Video Prompt #3*:
+* (Used a picture from Image Prompt #2)
+* Camera Motion: 1.0
+
+
+
+There is some slow panning in the video, which is nice.
+
+*Video Prompt #4*:
+* (Used a picture from Image Prompt #3)
+* Camera Motion: 3.0
+
+
+
+There is some body movement but no mouth movement.
+
+*Video Prompt #5*:
+* (Used a picture from Image Prompt #3)
+* Camera Motion: 10.0
+
+
+
+The static pose has been animated into a running motion, but the face shape morphs and changes halfway through the video, which is a little scary.
+
+*(Between the time of testing and writing, Decohere has added a new feature in their Paid plans to "Use reference person" to generate more consistent images. Perhaps this addresses the issue?)*
+
+Lastly, I'll try generating a new image and then generate a video directly from the result image screen. All the previous images were generated from saved images.
+
+Let's start with a new image prompt.
+
+*Image Prompt #5*:
+* "Benefits and challenges of fitness trackers"
+* Image size: Wide (16:9, Youtube, etc.)
+>![two watches](./images/decohereAI/bacoft.jpeg)
+![watch and phone](./images/decohereAI/bacoft1.jpeg)
+![watch, running](./images/decohereAI/bacoft2.jpeg)
+![running on the phone](./images/decohereAI/bacoft3.jpeg)
+
+Now let's turn the last image into a video.
+
+*Video Prompt #4*:
+* (Used a picture from Image Prompt #5)
+* Camera Motion: 5.0
+
+
+
+The output turned out okay. The video appears to be in slow motion, but the model seemes to be tuned for the default value of 5.0
+
+## Overall Rating: 3/5
+*Decohere* is a generative AI currently marketed towards animated video content, but the free trial restricts access to the most in-depth video tools. Thus, the main strength of this tool at a free tier is the straightforward image generation functionality.
+
+In terms of video generation, the term **Camera Motion** is somewhat self-explanatory, referring to the overall movement in the resulting video, whether that is panning of movement from any characters on screen. Adjustment of this setting required some experimentation before satisfactory output was generated. 
+
+### Image Generation: 3/5
+The tool delivers realistic flexbility when provided custom prompts, although not consistently. The 1000 monthly prompt limit also enables further testing with different prompts. The ability to cycle through different images is convenient, but images to not change much once a prompt is typed in.
+
+### Video Generation: 1/5
+The tool offers access to brief 4 second animations of static images, which is novel but seems more geared towards usage of stock images rather than people speaking. Realistic video generation of moving people is currently a weakpoint of this tool at free tier, but I would expect significantly enhanced performance on a paid plan.
+
+### Bias: ?/5
+One of the most interesting things a person can do with this tool is immedaitely see the bias in the generated images as they type in the prompt, as the images update in realtime with the written prompt.
+
+As demonstrated above, the prompt **"happy athlete"** mainly returns pictures of darker skinned people running in track uniform, suggesting that as the basis for their data. However, once fitness trackers are added into the prompt, such as **"happy athlete wearing a fitness tracker,"** the skin tone of people in the generated images becomes considerably lighter as demonstrated above. Again, this exposes the data the AI model was trained on. 
+
+However, collected data can also reflect societal conditions possibly suggesting that: 
+1. Certain demographics of people are more likely seen celebrating victory at global track competitions
+2. Certain demographics of people are more likely seen wearing fitness trackers
+
+It is more difficult to formulate a bias score as we have not yet agreed upon what constitutes an acceptable level of bias. As this tool still in its early stages, is it possible that biases can be smoothed out as more data is added into the model.
+
 
 
 
