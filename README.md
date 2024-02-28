@@ -4,10 +4,10 @@ This project is part of a collaboration between the [International Society of Se
 
 ## Goals
 There are two main goals of this project:
-1. Increase understanding of the various AI tools on the market.
-2. Demonstrate how AI can be a useful service innovation by generating content for the ISSIP website.
+1. Increase **understanding of the various AI tools** on the market.
+2. Demonstrate how **AI can be a useful service innovation** by generating content for the ISSIP website.
 
-To accomplish this, each person participates in testing three different AI tools. Our goal was to generate text, images, and video promoting certain service innovations. 
+To accomplish this, each person participates in testing three different AI tools. Our goal was to generate **text, images, and video** promoting certain service innovations. 
 
 Our chosen service innovation was **Fitness Trackers** (fitbits and smartwatches).
 
