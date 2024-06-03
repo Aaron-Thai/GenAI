@@ -12,10 +12,13 @@ To accomplish this, each person participates in testing three different AI tools
 Our chosen service innovation was **Fitness Trackers** (fitbits and smartwatches).
 
 ## Documentation
-The testing phase was split into three rounds. Click the links below to view detailed documentation on the AI tools. 
-* Round 1: [Copy AI (overall rating: 4/5)](https://github.com/Aaron-Thai/GenAI/blob/main/CopyAI.md)
-* Round 2: [Playground AI (overall rating: 1/5)](https://github.com/Aaron-Thai/GenAI/blob/main/PlaygroundAI.md)
-* Round 3: [Decohere AI (overall rating: 3/5)](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)
+The testing phase was split into three rounds. Click the name of the Gen AI tool below to view detailed documentation. 
+| Round | Tool | Overall Rating |
+|-------|------|----------------|
+| 1     |  [Copy AI](https://github.com/Aaron-Thai/GenAI/blob/main/CopyAI.md)    | 4/5            |
+| 2     |  [Playground AI](https://github.com/Aaron-Thai/GenAI/blob/main/PlaygroundAI.md)    | 1/5            |
+| 3     |   [Decohere AI](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)   | 3/5            |
+
 
 ## Rating Scale
 Ratings are based on how well each tool generated media from a scale of 0 to 5. 
