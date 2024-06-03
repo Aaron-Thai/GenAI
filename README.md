@@ -31,7 +31,7 @@ Ratings are based on how well each tool generated media from a scale of 0 to 5.
 | 5      | Above average performance        |
 
 ## Ethics Rating Scale
-Overall rating is roughly averaged from the individual ratings below, to the nearest 0.5 scale.
+Overall ethics rating is roughly averaged from the individual ratings below, to the nearest 0.5 scale.
 | Principle                     | Rating (1-5) | Reasoning                                                                   |
 |-------------------------------|--------------|-----------------------------------------------------------------------------|
 | **1. Fairness**               |              |                                                                             |
