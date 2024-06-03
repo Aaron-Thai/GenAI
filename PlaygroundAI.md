@@ -109,6 +109,21 @@ Overall, fitness trackers do seem to offer an important service innovation as lo
 
 The tone for this output seems a bit robotic in how it specifically answers the prompt by providing exactly the words used, like “benefit” and “challenge." Another critique is that contrary to the name, the output for the "challenge" section could be more coherent in wording.
 
+## Ethics Rating: 3/5
+| Principle                     | Rating (1-5) | Reasoning                                                                                                                                               |
+|-------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **1. Fairness**               |              |                                                                                                                                                         |
+| Diverse Representative Data   | 5            | The tool utilizes multiple LLMs and Image Models (Stable Diffusion, OpenJourney, RealisticVision 4.0, etc.) to diversify potential generated responses. |
+| Bias Awareness and Mitigation | 2            | The tool does not appear to have any particular measures for bias mitigation in image output. Depicted athletes were primarily light-skinned females.   |
+| **2. Reliability**            |              |                                                                                                                                                         |
+| Quality Results over Time     | 2            | The tool has notified users that the image generation tool is under maintenance with no specified length.                                               |
+| **3. Traceability**           |              |                                                                                                                                                         |
+| Source Attribution            | 5            | All text and image models utilized are named, such as ChatGPT and Hugging Face.                                                                         |
+| **4. Transparency**           |              |                                                                                                                                                         |
+| Resource Accessibility        | 2            | Important features such as Prompt Guidance and Model are hidden under "Advanced" mode and called "rarely used parameters."                              |
+| **5. Privacy and Security**   |              |                                                                                                                                                         |
+| Third-Party Disclosure        | 3            | The tool pledges to keep user information entered into the chatbot confidential.                                                                        |
+
 ## Overall Rating: 1/5
 
 Although there is a somewhat involved tutorial, *PlaygroundAI* fails to sufficiently introduce one of the most important settings to the user: **Prompt Guidance**. As such, many free prompts were used before somewhat satisfactory output was generated. 

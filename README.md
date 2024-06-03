@@ -13,11 +13,11 @@ Our chosen service innovation was **Fitness Trackers** (fitbits and smartwatches
 
 ## Documentation
 The testing phase was split into three rounds. Click the name of the Gen AI tool below to view detailed documentation. 
-| Round | Tool | Overall Rating |
-|-------|------|----------------|
-| 1     |  [Copy AI](https://github.com/Aaron-Thai/GenAI/blob/main/CopyAI.md)    | 4/5            |
-| 2     |  [Playground AI](https://github.com/Aaron-Thai/GenAI/blob/main/PlaygroundAI.md)    | 1/5            |
-| 3     |   [Decohere AI](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)   | 3/5            |
+| Round | Tool                                                                             | Overall Rating |
+|-------|----------------------------------------------------------------------------------|----------------|
+| 1     |  [Copy AI](https://github.com/Aaron-Thai/GenAI/blob/main/CopyAI.md)              | 4/5            |
+| 2     |  [Playground AI](https://github.com/Aaron-Thai/GenAI/blob/main/PlaygroundAI.md)  | 1/5            |
+| 3     |  [Decohere AI](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)      | 3/5            |
 
 
 ## Rating Scale
@@ -29,6 +29,22 @@ Ratings are based on how well each tool generated media from a scale of 0 to 5.
 | 1      | Below average performance        |
 | 3      | Average performance              |
 | 5      | Above average performance        |
+
+## Ethics Rating Scale
+Overall rating is roughly averaged from the individual ratings below, to the nearest 0.5 scale.
+| Principle                     | Rating (1-5) | Reasoning                                                                   |
+|-------------------------------|--------------|-----------------------------------------------------------------------------|
+| **1. Fairness**               |              |                                                                             |
+| Diverse Representative Data   | ?            | Can it be used in good faith as a marketing tool to represent the userbase? |
+| Bias Awareness and Mitigation | ?            | How does the tool prevent a strong preference for particular content?       |
+| **2. Reliability**            |              |                                                                             |
+| Quality Results over Time     | ?            | Does the tool generate good results consistently?                           |
+| **3. Traceability**           |              |                                                                             |
+| Source Attribution            | ?            | Where did the training data come from? What models are used?                |
+| **4. Transparency**           |              |                                                                             |
+| Resource Accessibility        | ?            | How easy is it to find out important information about the tool?            |
+| **5. Privacy and Security**   |              |                                                                             |
+| Third-Party Disclosure        | ?            | Does the AI tool share your personal information? Is your data safe?        |
 
 ## Resources Used
 * [Markdown Guide](https://www.markdownguide.org/basic-syntax/) provided formatting instructions for documentation.
