@@ -13,6 +13,7 @@ Our chosen service innovation was **Fitness Trackers** (fitbits and smartwatches
 
 ## Documentation
 The testing phase was split into three rounds. Click the name of the Gen AI tool below to view detailed documentation. 
+
 | Round | Tool                                                                             | Overall Rating |
 |-------|----------------------------------------------------------------------------------|----------------|
 | 1     |  [Copy AI](https://github.com/Aaron-Thai/GenAI/blob/main/CopyAI.md)              | 4/5            |
@@ -32,6 +33,7 @@ Ratings are based on how well each tool generated media from a scale of 0 to 5.
 
 ## Ethics Rating Scale
 Overall ethics rating is roughly averaged from the individual ratings below, to the nearest 0.5 scale.
+
 | Principle                     | Rating (1-5) | Reasoning                                                                   |
 |-------------------------------|--------------|-----------------------------------------------------------------------------|
 | **1. Fairness**               |              |                                                                             |
