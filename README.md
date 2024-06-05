@@ -12,7 +12,8 @@ To accomplish this, each person participates in testing three different AI tools
 Our chosen service innovation was **Fitness Trackers** (fitbits and smartwatches).
 
 ## Example Content
-This example website explains how Fitness Trackers are a Service Innovation by using AI generated text, image, and video. 
+This example website uses AI generated content (text, image, and video) to explain the topic of **Fitness Trackers as a Service Innovation**. The website was based on code from [Moosa Naushab](https://www.linkedin.com/in/moosan/) and additional edits were made in Visual Studio Code.
+
 Visit the website here: https://aaron-thai.github.io/GenAI/
 
 ## Documentation
