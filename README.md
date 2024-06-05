@@ -2,6 +2,8 @@
 
 This project is part of a collaboration between the [International Society of Service Innovation Professionals](https://www.issip.org) (ISSIP) and the [Institute for Operations Research and Management Sciences](https://www.informs.org/) (INFORMS) via the Analytics Innovation Club (AI Club) at the University of Washington Tacoma.
 
+See ratings for 10+ additional AI tools on the full project page here: https://github.com/MSBA-AICLUB/ISSIP
+
 ## Goals
 There are two main goals of this project:
 1. Increase **understanding of the various AI tools** on the market.
