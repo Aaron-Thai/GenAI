@@ -11,6 +11,10 @@ To accomplish this, each person participates in testing three different AI tools
 
 Our chosen service innovation was **Fitness Trackers** (fitbits and smartwatches).
 
+## Example Content
+This example website explains how Fitness Trackers are a Service Innovation by using AI generated text, image, and video. 
+Visit the website here: https://aaron-thai.github.io/GenAI/
+
 ## Documentation
 The testing phase was split into three rounds. Click the name of the Gen AI tool below to view detailed documentation. 
 
